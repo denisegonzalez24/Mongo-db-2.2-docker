@@ -5,7 +5,7 @@ Automatizar la ejecución de docker-compose.yml desde un archivo de consola llam
 
 1.- Clonar este repositorio 
 lo puedes hacer de la siguiente manera:
-Desde tu terminal git clone https://github.com/denuG23/mongodb2.2_en_docker
+Desde tu terminal git clone [https://github.com/denuG23/mongodb2.2_en_docker](https://github.com/denisegonzalez24/Mongo-db-2.2-docker.git)
 
 2.- Abrir en windows gitBash
 
